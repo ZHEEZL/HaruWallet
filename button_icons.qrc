@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/warning.png</file>
+    <file>icons/copy.png</file>
+    <file>icons/settings.png</file>
+    <file>icons/back.png</file>
+    <file>icons/send.png</file>
+    <file>icons/blockscan.png</file>
+    <file>icons/receive.png</file>
+  </qresource>
+  <qresource prefix="qr">
+    <file>qr/qr.png</file>
+  </qresource>
+</RCC>
