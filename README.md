@@ -2,8 +2,9 @@
 ## This is a crypto wallet for receiving or sending the main BNB cryptocurrency to the BNB SmartChain test network. (The test network can be changed to a real one)
 ### User interaction via keyboard and mouse.
 ## WARNING:
-UI on Russian!!!
-PASSWORD FROM APP = 123
+- UI on Russian!!!
+- PASSWORD FROM APP = 123
+- U CAN CHANGE IT ON CONFIG FILE
 ## Functionality:
 - login to the wallet with a password
 - the ability to create, select, and import an account
